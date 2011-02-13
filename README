@@ -1,3 +1,9 @@
+To try it out, load up ./src/Cellular.hs in GHCi and issue this command:
+
+  genOut (genLoop <nr. of runs> seed)
+
+Change <nr. of runs> to anything you see fit. Also, consider altering the seed and/or the rules and see what happens!
+
 Celluma is currently in planning/pre-alpha. If you want to join, contact me (information at bottom).
 
 Depends:
