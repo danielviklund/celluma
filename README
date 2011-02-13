@@ -1,0 +1,14 @@
+Celluma is currently in planning/pre-alpha. If you want to join, contact me (information at bottom).
+
+Depends:
+  * GHC       >=  6.12.3
+
+Future releases will depend on at least:
+  * cabal     (for nice packaging)
+  * Haskore   (library for audio/music generation)
+
+For more information, see project home @ http://celluma.sourceforge.net/
+
+Contact:  mondad@users.sourceforge.net
+Git:      git://celluma.git.sourceforge.net/gitroot/celluma/celluma
+          (read-only)
